@@ -1,74 +1,47 @@
 # Capitalista Rebelde
 
-**Bienvenidos al lado rebelde del capital.**  
-Where capital and knowledge meet innovation.
+**Bienvenidos al lado rebelde del capital.**
 
-Este repositorio será el punto de partida público de **Capitalista Rebelde**, un ecosistema on-chain que mezcla:
+El ahorro genera rendimiento. Ese rendimiento financia acciones reales y verificadas.
 
-- Gestión de activos cripto y Web3 (BTC, ETH, stablecoins, RWAs, oro tokenizado…)
-- Investigación macro y análisis de ciclos de liquidez
-- Diseño de incentivos, token-economics y coordinación entre agentes
-- Educación financiera para una comunidad que quiere emanciparse de su gobierno y divorciarse de su banco
+**La transferencia es el voto.** Se decide con rendimiento donado de forma irreversible, nunca con el capital depositado. Quien quiere influir, renuncia a algo. Eso encarece la compra de votos y dificulta las identidades falsas.
 
 ---
 
-## 🌋 Our core beliefs
+## Las tres piezas
 
-- **No perseguimos precios, compramos en rojo y vendemos en verde.**  
-- **Buscamos la asimetría en la estructura de los mercados para capitalizar la rotación del capital y la energía de la volatilidad.**
-- El valor nuevo solo se emite desde la **creación real y verificable**.
-- Nadie recibe antes por estar más cerca del centro, sino por **construir más al crecimiento del network**.
-- El interés del individuo y el interés del colectivo deben estar **alineados matemáticamente**.
-- Los sesgos humanos, la psicología del inversor y la teoría de juegos no son enemigos, son herramientas de diseño.
+1. **Ahorro curado** — acceso a estrategias de rendimiento de terceros, filtradas por calidad y riesgo. Curamos, no operamos, y nunca custodiamos fondos.
+2. **Mercado de misiones** — acciones reales con objetivo, ejecutor, verificador y evidencia. Quien ejecuta deposita fianza y la pierde si actúa de mala fe.
+3. **Reputación** — historial verificable de quien cumple.
 
 ---
 
-## 🧠 What you’ll find in this repo
+## Qué hay aquí
 
-Este repositorio irá creciendo con:
+| Carpeta | Contenido |
+|---|---|
+| [`docs/`](docs/) | Tesis, compromisos, roadmap, glosario, protocolos, reglas de producto y manifiesto |
+| [`clic/`](clic/) | Principios de Clic, el sistema de agentes |
+| [`mcc-1/`](mcc-1/) | Metodología de curación (sin calibración) |
+| [`decisiones/`](decisiones/) | Registro público de decisiones y su razonamiento |
+| [`CONTRIBUIDORES.md`](CONTRIBUIDORES.md) | Quién ha aportado qué, con fecha |
 
-1. **Research & Frameworks**
-   - Notas sobre macro-liquidez, ciclos monetarios y repricing de activos digitales
-   - Modelos de “crypto value investing” aplicados a tokens, protocolos y RWAs
-   - Mapas mentales y frameworks estratégicos usados en Capitalista Rebelde
-
-2. **Token-Economics & Incentive Design**
-   - Borradores de modelos de token-economía para el ecosistema Capitalista Rebelde
-   - Esquemas de roles, agentes, KPIs y métricas de desempeño
-   - Ideas para alinear incentivos entre comunidad, gestores y network
-
-3. **Playbooks de Inversión**
-   - Principios para construir carteras en activos volátiles con enfoque de largo plazo
-   - Reglas prácticas: sizing, gestión del riesgo, uso de la volatilidad a favor
-   - Casos de estudio de rotaciones de mercado entre narrativas (BTC, DeFi, AI, RWAs…)
-
-4. **Community & Governance**
-   - Documentos para la comunidad: manifiestos, guías y normas básicas
-   - Propuestas de gobernanza on-chain y coordinación entre equipos
-   - Ideas para el marketplace de gestores y el marketplace de acciones políticas
+Empieza por [la tesis](docs/tesis.md) y los [compromisos públicos](docs/compromisos.md).
 
 ---
 
-## 🏴 Manifiesto breve
+## Participar
 
-Capitalista Rebelde nace para:
-
-1. **Proteger y multiplicar el capital** de quienes entienden que la represión financiera está aquí para quedarse.
-2. **Construir una comunidad soberana**, donde la identidad, el trabajo y la contribución queden reflejados on-chain.
-3. **Aprovechar la volatilidad**, no sufrirla: la tratamos como una fuente de oportunidades, no como un problema.
-4. **Democratizar el acceso a estructuras de “family office” y de gestión profesional** usando herramientas Web3.
+No hace falta saber programar. La mayoría de lo que falta es criterio, no código. Lee [CONTRIBUTING.md](CONTRIBUTING.md) y [GOBERNANZA.md](GOBERNANZA.md).
 
 ---
 
-## ⚠️ Disclaimer
+## Licencias
 
-Nada en este repositorio constituye asesoramiento financiero, fiscal o legal.  
-La información aquí contenida tiene un propósito **educativo y experimental**.
+Documentación CC BY-SA 4.0 · Código AGPL-3.0
 
-**Your money, your bet.**  
-Haz siempre tu propia investigación y consulta con profesionales cualificados antes de tomar decisiones de inversión.
+## Aviso
 
----
+Nada en este repositorio constituye asesoramiento financiero, fiscal o legal. Los rendimientos no están garantizados. Contribuir no otorga derecho a pago, tokens, puntos ni participación.
 
-Bienvenidos al lado rebelde del capital.  
-Este commit es solo el inicio.
+**Your money, your bet.**
