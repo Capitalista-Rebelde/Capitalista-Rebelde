@@ -14,3 +14,7 @@ Para añadirte: abre un PR editando este archivo, o pídelo en el issue de tu co
 ---
 
 **Aviso**: figurar aquí no otorga derecho a pago, tokens, puntos ni participación. Es reconocimiento de autoría, nada más.
+
+## Cómo se registra
+
+Cada contribución incorporada se anota aquí con nombre y fecha, y se registra además como atestación pública en cadena ([ver plan](docs/atestaciones.md)). Quien prefiera no aparecer públicamente puede pedirlo.
